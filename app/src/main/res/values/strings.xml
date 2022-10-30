@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">One Browser</string>
+    <string name="in_title_splash">daily booster</string>
+    <string name="in_content_splash">Make your phone faster</string>
+    <string name="title_bookmark">Bookmarks</string>
+    <string name="title_history">History</string>
+    <string name="setting_history">History</string>
+    <string name="setting_add">Add Bookmark</string>
+    <string name="setting_bookmarks">Bookmarks</string>
+    <string name="search_hint">Search or Type URL</string>
+    <string name="url_tiktok">TikTok</string>
+    <string name="url_instagram">Instagram</string>
+    <string name="url_vimeo">Vimeo</string>
+    <string name="url_twitter">Twitter</string>
+    <string name="result_clean">The cleanup is complete and %s records are deleted.</string>
+</resources>
